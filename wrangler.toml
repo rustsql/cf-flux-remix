@@ -10,7 +10,7 @@ main = "./build/worker/index.js"
 # 静态资源目录
 assets = { directory = "./build/client" }
 
-# 启用 Workers 日志
+# 启用 Workers 日志 策列
 [observability]
 enabled = true
 
