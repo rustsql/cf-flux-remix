@@ -62,7 +62,7 @@ export default function Index() {
             </li>
             <li>
               <Link
-                to="http://diyprint.ai/"
+                to="https://cutesprint.com/"
                 className="block w-full text-center px-6 py-3 text-lg font-semibold text-white bg-gradient-to-r from-indigo-500 to-indigo-700 rounded-xl transition transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-indigo-400"
               >
                 分布式打印服务 客户端
