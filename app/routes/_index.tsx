@@ -38,7 +38,7 @@ export default function Index() {
           <ul className="space-y-4">
             <li>
               <Link
-                to="/generate-image"
+                to="https://printai-png.golangsql.workers.dev/"
                 className="block w-full text-center px-6 py-3 text-lg font-semibold text-white bg-gradient-to-r from-indigo-500 to-indigo-700 rounded-xl transition transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-indigo-400"
               >
                 分布式打印服务 文生图自建本地模型服务
