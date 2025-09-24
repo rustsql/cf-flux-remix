@@ -36,14 +36,14 @@ export default function Index() {
         <h1 className="text-4xl font-extrabold text-white mb-8 text-center">分布式服务 发现注册</h1>
         <nav>
           <ul className="space-y-4">
-            <li>
+            {/* <li>
               <Link
                 to="https://printai-png.golangsql.workers.dev/"
                 className="block w-full text-center px-6 py-3 text-lg font-semibold text-white bg-gradient-to-r from-indigo-500 to-indigo-700 rounded-xl transition transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-indigo-400"
               >
                 分布式打印服务 文生图自建本地模型服务
               </Link>
-            </li>
+            </li> */}
             <li>
               <Link
                 to="http://69.62.71.7:8888/"
