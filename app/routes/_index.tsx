@@ -70,23 +70,23 @@ export default function Index() {
             </li>
             {/* 可以在这里添加更多的导航项 */}
 
-            <li>
+            {/* <li>
               <Link
                 to="https://admin.860377.xyz/"
                 className="block w-full text-center px-6 py-3 text-lg font-semibold text-white bg-gradient-to-r from-indigo-500 to-indigo-700 rounded-xl transition transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-indigo-400"
               >
                 国内分布式打印服务 后台管理
               </Link>
-            </li>
+            </li> */}
 
-            <li>
+            {/* <li>
               <Link
                 to="https://cloud.860377.xyz/"
                 className="block w-full text-center px-6 py-3 text-lg font-semibold text-white bg-gradient-to-r from-indigo-500 to-indigo-700 rounded-xl transition transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-indigo-400"
               >
                 国内分布式打印服务 用户入口
               </Link>
-            </li>
+            </li> */}
           </ul>
         </nav>
       </div>
